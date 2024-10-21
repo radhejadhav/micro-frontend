@@ -1,0 +1,109 @@
+[{
+    "id": 241,
+    "title": "Babu Bisleri",
+    "price": 999,
+    "description": "babu bisleri babu bisleri babu bisleri babu bisleri babu bisleri babu bisleri babu bisleri babu bisleri babu bisleri babu bisleri babu bisleri babu bisleri",
+    "images": [
+        "[\"https://femina.wwmindia.com/thumb/content/2016/Jun/thumbnail_1464861339.jpg?width=1200&height=900\"]"
+    ],
+    "creationAt": "2024-09-17T13:24:17.000Z",
+    "updatedAt": "2024-09-17T13:24:17.000Z",
+    "category": {
+        "id": 1,
+        "name": "Clothes",
+        "image": "https://i.imgur.com/QkIa5tT.jpeg",
+        "creationAt": "2024-09-17T02:24:05.000Z",
+        "updatedAt": "2024-09-17T02:24:05.000Z"
+    }
+},
+{
+    "id": 243,
+    "title": "aami",
+    "price": 23,
+    "description": "test add",
+    "images": [
+        "[\"https://placeimg.com/640/480/any\"]"
+    ],
+    "creationAt": "2024-09-17T13:38:51.000Z",
+    "updatedAt": "2024-09-17T13:38:51.000Z",
+    "category": {
+        "id": 1,
+        "name": "Clothes",
+        "image": "https://i.imgur.com/QkIa5tT.jpeg",
+        "creationAt": "2024-09-17T02:24:05.000Z",
+        "updatedAt": "2024-09-17T02:24:05.000Z"
+    }
+},
+{
+    "id": 244,
+    "title": "Мишки Барни",
+    "price": 18999,
+    "description": "Вкусные мишки",
+    "images": [
+        "[\"https://products.com/img123123.jpg\"]"
+    ],
+    "creationAt": "2024-09-17T13:50:56.000Z",
+    "updatedAt": "2024-09-17T13:50:56.000Z",
+    "category": {
+        "id": 1,
+        "name": "Clothes",
+        "image": "https://i.imgur.com/QkIa5tT.jpeg",
+        "creationAt": "2024-09-17T02:24:05.000Z",
+        "updatedAt": "2024-09-17T02:24:05.000Z"
+    }
+},
+{
+    "id": 245,
+    "title": "New Product",
+    "price": 10,
+    "description": "A description",
+    "images": [
+        "[\"https://placeimg.com/640/480/any\"]"
+    ],
+    "creationAt": "2024-09-17T15:13:28.000Z",
+    "updatedAt": "2024-09-17T15:13:28.000Z",
+    "category": {
+        "id": 1,
+        "name": "Clothes",
+        "image": "https://i.imgur.com/QkIa5tT.jpeg",
+        "creationAt": "2024-09-17T02:24:05.000Z",
+        "updatedAt": "2024-09-17T02:24:05.000Z"
+    }
+},
+{
+    "id": 246,
+    "title": "aamm",
+    "price": 123,
+    "description": "test ball",
+    "images": [
+        "[\"https://placeimg.com/640/480/any\"]"
+    ],
+    "creationAt": "2024-09-17T16:07:28.000Z",
+    "updatedAt": "2024-09-17T16:07:28.000Z",
+    "category": {
+        "id": 1,
+        "name": "Clothes",
+        "image": "https://i.imgur.com/QkIa5tT.jpeg",
+        "creationAt": "2024-09-17T02:24:05.000Z",
+        "updatedAt": "2024-09-17T02:24:05.000Z"
+    }
+},
+{
+    "id": 247,
+    "title": "ewewew",
+    "price": 4444,
+    "description": "asasa sasasas",
+    "images": [
+        "[\"https://placeimg.com/640/480/any\"]"
+    ],
+    "creationAt": "2024-09-17T16:11:02.000Z",
+    "updatedAt": "2024-09-17T16:11:02.000Z",
+    "category": {
+        "id": 1,
+        "name": "Clothes",
+        "image": "https://i.imgur.com/QkIa5tT.jpeg",
+        "creationAt": "2024-09-17T02:24:05.000Z",
+        "updatedAt": "2024-09-17T02:24:05.000Z"
+    }
+}
+]
