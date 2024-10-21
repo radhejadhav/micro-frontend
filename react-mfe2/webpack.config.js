@@ -9,9 +9,10 @@ module.exports = {
     output: {
         path: path.join(__dirname, "./dist"),
         filename: "index.js"
+        // publicPath: "auto"
     },
     devServer: {
-        port: 3001,
+        port: 3002,
     },
     resolve: {
         extensions: [".js", ".jsx", ".ts", ".tsx"],
@@ -39,22 +40,18 @@ module.exports = {
 
         }),
         new ModuleFederationPlugin({
-            name: "RemoteMfe1",
+            name: "RemoteMfe2",
             filename: "static/chunks/remoteEntry.js",
 
             exposes: {
-                "./Navbar":"./src/components/Navbar.tsx",
-                "./Dashboard": "./src/components/Dashboard.tsx",
-                // "./ProductList":"./src/components/ProductList.tsx"
+                "./Dashboard": "./src/components/ProductsList.tsx",
             },
             shared: {
                 react: {
-                    // eager:true,
                     singleton: true,
                     requiredVersion: dependencies["react"],
                 },
                 "react-dom": {
-                    // eager:true,
                     singleton: true,
                     requiredVersion: dependencies["react-dom"],
                 },
