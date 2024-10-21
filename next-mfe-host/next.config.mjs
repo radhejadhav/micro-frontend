@@ -5,8 +5,8 @@ import NextFederationPlugin from '@module-federation/nextjs-mf';
 const remotes = isServer => {
     const location = isServer ? 'ssr' : 'chunks';
     return {
-        remote1: `remoteApp@http://localhost:3001/static/${location}/remoteEntry.js`,
-        remote2: `HostMfe@http://localhost:3002/static/${location}/remoteEntry.js`
+        remote1: `RemoteMfe1@http://localhost:3001/static/${location}/remoteEntry.js`,
+        remote2: `RemoteMfe2@http://localhost:3002/static/${location}/remoteEntry.js`
     };
 };
 
