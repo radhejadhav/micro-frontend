@@ -1,3 +1,4 @@
-**/node_mudule
-**/dist
-**/build
+**/node_mudule/
+**/dist/
+**/.next
+**/build/
